@@ -1,0 +1,13 @@
+Question:
+
+a Write java Program to create an integer array
+ by taking length as input from the user.
+  Take the contents of the array from user and store the contents in the array.
+  Display the contents of the array by incrementing each value present in the array by 5 on to the console.  
+Note : Use Enhanced For Loop 
+
+Explanation:
+
+create an array .take length as user input from the scanner class
+using for loop store the values
+while displaying increment 5 to the each value
